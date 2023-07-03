@@ -1,4 +1,4 @@
-# autismus-voismus
+# voismus
 Бот для тех, кому не терпимы голосовые сообщения в групповых чатах.
 
 Использует библиотеку pyTelegramBotAPI (pip install pyTelegramBotAPI), рассчитан для запуска из под PyCharm или прочих IDE для работы с Python 3.10+.
